@@ -1,0 +1,52 @@
+body {
+   background: linear-gradient(135deg, #4646b1, #2a2a44);
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+.service-card {
+    background: #24243e;
+    border-radius: 15px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.service-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+#home {
+    background: linear-gradient(135deg, #24243e, #302b63);
+}
+
+
+.tech-slider {
+    width: 100%; /* Largura do contêiner */
+    overflow: hidden;
+    position: relative;
+    height: 100px; /* Altura ajustada */
+}
+
+.tech-icons {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    animation: scrollHorizontal 10s linear infinite; /* Animação horizontal */
+}
+
+@keyframes scrollHorizontal {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+.tech-icons > div {
+    margin: 0 20px; /* Espaçamento entre os ícones */
+    text-align: center;
+}
+    .social-links i {
+        font-size: 24px;  
+        margin-right: 8px; 
+    }
+
