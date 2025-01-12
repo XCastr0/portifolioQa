@@ -1,32 +1,35 @@
 Bem-vindo ao meu portfólio! 🚀
-
-Neste repositório, você encontrará um resumo da minha jornada como Quality Assurance (QA), além de alguns dos projetos que desenvolvi e testei ao longo do tempo. O objetivo aqui é não apenas compartilhar os testes realizados, mas também demonstrar como a qualidade é fundamental em cada fase do desenvolvimento de software, e como me dedico para garantir a excelência de cada entrega.
+Neste repositório, você encontrará um resumo da minha jornada como Quality Assurance (QA), além de projetos que desenvolvi e testei ao longo do tempo. O objetivo é compartilhar práticas de teste e demonstrar como a qualidade é fundamental em cada fase do desenvolvimento de software. Minha dedicação está em garantir a excelência de cada entrega e aprimorar continuamente minhas habilidades técnicas.
 
 Tecnologias e Ferramentas Utilizadas
-Como QA, tenho experiência com uma ampla gama de ferramentas e tecnologias para garantir a qualidade e a integridade do software. Algumas delas incluem:
+Como QA, possuo experiência com diversas ferramentas e tecnologias que garantem a qualidade e a integridade do software. Aqui estão algumas delas:
 
-Testes Automatizados: Selenium, Cypress, Jest, Mocha, Postman
+Testes Automatizados: Playwright, Cypress
 Testes Manuais: Testes exploratórios, Testes de regressão, Testes de usabilidade
-Gestão de Testes: TestRail, Jira, TestLink
-Controle de Versão: Git, GitHub, GitLab
-Integração Contínua: Jenkins, Travis CI, CircleCI
-Outras Ferramentas: Docker, AWS, Firebase
+Gestão de Testes: YouTrack
+Banco de Dados: PostgreSQL
+Controle de Versão: Git, GitHub
+Metodologias Ágeis: Scrum
 Projetos Destaque
+Ao longo da minha jornada, participei de diversos projetos onde pude:
 
-
+Automatizar testes com Playwright, reduzindo o tempo de execução em 80%.
+Aumentar a cobertura de testes em 90%, criando cenários robustos para APIs e UI.
+Colaborar com equipes ágeis para identificar e corrigir falhas rapidamente.
 Minhas Práticas como QA
-Durante minha jornada como QA, busquei sempre aprimorar minhas habilidades e trabalhar de maneira colaborativa com as equipes de desenvolvimento. Aqui estão algumas práticas que sigo:
+Durante minha trajetória, adotei práticas que aprimoram a qualidade e otimizam o desenvolvimento de software:
 
-Testes Baseados em Riscos: Priorização de testes com base em riscos identificados e impacto no usuário final.
-Automação de Testes: Criação de scripts de testes automáticos para reduzir o tempo de execução e garantir a consistência.
-Testes Ágeis: Integração dos testes no ciclo ágil de desenvolvimento, com participação ativa em sprints, revisão de backlog e melhoria contínua.
-Testes de Performance: Garantir que a aplicação seja estável e escalável sob diferentes condições de carga.
-Feedback Rápido: Compartilhamento de resultados de testes e bugs de forma rápida e eficaz para os desenvolvedores.
+Testes Baseados em Riscos: Priorização com foco no impacto para o usuário final.
+Automação de Testes: Scripts que garantem consistência e reduzem o tempo de execução.
+Testes Ágeis: Participação ativa em sprints, planejamento e revisões.
+Testes de Performance: Avaliação da estabilidade e escalabilidade de aplicações.
+Feedback Rápido: Comunicação clara e ágil sobre resultados e bugs.
 Objetivo
-Meu objetivo com este portfólio é mostrar não apenas os testes que realizei, mas também como minha abordagem ajuda a garantir a qualidade em todas as etapas do ciclo de vida do software. Além disso, busco sempre aprender novas ferramentas e técnicas para melhorar a cobertura de testes, detectar falhas precocemente e entregar um produto final que atenda às expectativas dos usuários.
+Este portfólio tem como objetivo mostrar não apenas os testes que realizei, mas também como minha abordagem contribui para a qualidade em todas as etapas do ciclo de vida do software. Busco aprender continuamente novas ferramentas e técnicas, garantindo que cada entrega atenda ou supere as expectativas dos usuários.
+
+Formação
+Sou estudante de Engenharia de Software (4º semestre), com previsão de conclusão em dezembro de 2027.
 
 Conclusão
-Encerrando 2024 com muitos aprendizados e progressos como QA, estou empolgado com as oportunidades de crescer ainda mais em 2025. Cada projeto é uma nova chance de aprender, aprimorar processos e garantir a qualidade. Que venha 2025 com mais desafios e muitas conquistas!
+Estou empolgada com as oportunidades de crescimento e aprendizado que virão nos próximos anos. Cada projeto é uma chance de evoluir, melhorar processos e entregar qualidade. Que venham novos desafios e conquistas!
 
-Conectar
-Se você deseja discutir mais sobre qualidade de software, testes, ou qualquer aspecto relacionado ao desenvolvimento de sistemas, estou à disposição! Vamos trocar ideias e crescer juntos na jornada da qualidade!
