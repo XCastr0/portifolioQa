@@ -50,3 +50,10 @@ body {
         margin-right: 8px; 
     }
 
+    #projects img {
+        max-width: 100%; /* Garante que a imagem não ultrapasse o tamanho do container */
+        height: auto; /* Mantém a proporção */
+        max-height: 200px; /* Define um limite de altura */
+        object-fit: cover; /* Ajusta a imagem ao container */
+    }
+    
